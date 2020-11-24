@@ -1,24 +1,24 @@
 {
-"products" : [
-{"id":1,"name":"Giraffe","categoru":"Violet"},
-{"id":2,"name":"Dog, bush","categoru":"Violet"},
-{"id":3,"name":"Grouse, sage","categoru":"Puce"},
-{"id":4,"name":"Squirrel glider","categoru":"Violet"},
-{"id":5,"name":"African pied wagtail","categoru":"Blue"},
-{"id":6,"name":"Monitor, white-throated","categoru":"Blue"},
-{"id":7,"name":"Rat, desert kangaroo","categoru":"Aquamarine"},
-{"id":8,"name":"Wombat, southern hairy-nosed","categoru":"Orange"},
-{"id":9,"name":"African wild dog","categoru":"Blue"},
-{"id":10,"name":"Grison","categoru":"Crimson"},
-{"id":11,"name":"Gull, pacific","categoru":"Mauv"},
-{"id":12,"name":"Asian false vampire bat","categoru":"Green"},
-{"id":13,"name":"Boar, wild","categoru":"Yellow"},
-{"id":14,"name":"Eagle, crowned","categoru":"Purple"},
-{"id":15,"name":"Koala","categoru":"Mauv"},
-{"id":16,"name":"Guerza","categoru":"Orange"},
-{"id":17,"name":"Greater adjutant stork","categoru":"Khaki"},
-{"id":18,"name":"White-necked stork","categoru":"Teal"},
-{"id":19,"name":"Bulbul, black-fronted","categoru":"Crimson"},
-{"id":20,"name":"Pampa gray fox","categoru":"Purple"}
-]
+  "product" : [
+ {"id":1,"name":"Vulture, black","category":"Maroon"},
+{"id":2,"name":"Verreaux's sifaka","category":"Red"},
+{"id":3,"name":"Barbet, black-collared","category":"Crimson"},
+{"id":4,"name":"North American beaver","category":"Mauv"},
+{"id":5,"name":"Cat, jungle","category":"Orange"},
+{"id":6,"name":"Booby, blue-faced","category":"Teal"},
+{"id":7,"name":"Yellow-billed stork","category":"Blue"},
+{"id":8,"name":"Hummingbird (unidentified)","category":"Purple"},
+{"id":9,"name":"Toddy cat","category":"Turquoise"},
+{"id":10,"name":"Egyptian goose","category":"Khaki"},
+{"id":11,"name":"Jackal, golden","category":"Red"},
+{"id":12,"name":"Roan antelope","category":"Mauv"},
+{"id":13,"name":"Black-cheeked waxbill","category":"Crimson"},
+{"id":14,"name":"Green heron","category":"Orange"},
+{"id":15,"name":"Macaque, bonnet","category":"Turquoise"},
+{"id":16,"name":"Penguin, little blue","category":"Puce"},
+{"id":17,"name":"Eagle, pallas's fish","category":"Yellow"},
+{"id":18,"name":"Collared lemming","category":"Puce"},
+{"id":19,"name":"Skink, african","category":"Fuscia"},
+{"id":20,"name":"Kiskadee, great","category":"Green"}
+    ]
 }
